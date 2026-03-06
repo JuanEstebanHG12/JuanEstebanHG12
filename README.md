@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! Soy Juan Esteban Holguín 👋
 
 <p align="center">
