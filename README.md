@@ -37,12 +37,6 @@ Soy un apasionado de la tecnología en camino a convertirme en **Desarrollador F
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanEstebanHG12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de JuanEstebanHG12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados por [TU_NOMBRE]" />
-</p>
 
 ## 🤝 Conectemos
 
