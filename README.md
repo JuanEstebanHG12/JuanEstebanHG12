@@ -59,9 +59,7 @@ Soy un apasionado de la tecnología en camino a convertirme en **Desarrollador F
   </a>
   </p>
 
-<p align="center">
-  <i>"El código es poesía, y JavaScript es mi pluma preferida."</i>
-</p>
+
 <!--
 **JuanEstebanHG12/JuanEstebanHG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
