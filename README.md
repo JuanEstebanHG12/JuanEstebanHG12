@@ -17,24 +17,32 @@ Soy un apasionado de la tecnología en camino a convertirme en **Desarrollador F
 
 <h3 align="left">Lenguajes y Frontend</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,react" 
+      alt="Stack Tecnológico" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Backend y Base de Datos</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" 
+      alt="Stack Backend" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Herramientas</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=git,vscode" 
+      alt="Herramientas" 
+    />
+  </a>
 </p>
 
 
@@ -44,12 +52,12 @@ Soy un apasionado de la tecnología en camino a convertirme en **Desarrollador F
 
 <p align="left">
   <a href="mailto:juanestebanhg12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/juan-esteban-holguin-galeano-8a41a7245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  </p>
+</p>
 
 
 <!--
