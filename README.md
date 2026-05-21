@@ -29,7 +29,7 @@ Soy un apasionado de la tecnología en camino a convertirme en **Desarrollador F
 <p align="left">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" 
+      src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,java,spring" 
       alt="Stack Backend" 
     />
   </a>
